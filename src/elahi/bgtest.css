@@ -1,0 +1,7 @@
+.root{
+    -fx-background-image: url("electro-music-wallpaper-speaker-desktop-background-rock-1920x1200.jpg");
+	-fx-background-repeat: stretch;   
+    -fx-background-size: 640 400;
+    -fx-background-position: center center;
+    -fx-effect: dropshadow(three-pass-box, black, 30, 0.5, 0, 0); 
+}

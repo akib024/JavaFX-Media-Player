@@ -1,0 +1,7 @@
+.playButton{
+    -fx-background-image: url("play.jpg");
+	-fx-background-repeat: stretch;   
+    
+    -fx-background-position: center center;
+     
+}
